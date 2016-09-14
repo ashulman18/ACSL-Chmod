@@ -21,3 +21,6 @@ already has the execute permission. A special permission of 0 indicates no speci
 A special permission of 1 applies only to the owner. A special permission of 2 applies only to the group class.
 A special permission of 4 applies only to the others class. When the special permissions are applied to either 
 the owner or group classes, the x is changed to an s. When applied to the others class, the x is changed to a t.
+
+To run this code use `javac Chmod.java`"
+then `java Chmod`
